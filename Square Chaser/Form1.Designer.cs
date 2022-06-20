@@ -40,6 +40,7 @@
             // p1scoreLabel
             // 
             this.p1scoreLabel.AutoSize = true;
+            this.p1scoreLabel.BackColor = System.Drawing.Color.Transparent;
             this.p1scoreLabel.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.p1scoreLabel.ForeColor = System.Drawing.Color.White;
             this.p1scoreLabel.Location = new System.Drawing.Point(343, 9);
@@ -51,6 +52,7 @@
             // p2scoreLabel
             // 
             this.p2scoreLabel.AutoSize = true;
+            this.p2scoreLabel.BackColor = System.Drawing.Color.Transparent;
             this.p2scoreLabel.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.p2scoreLabel.ForeColor = System.Drawing.Color.White;
             this.p2scoreLabel.Location = new System.Drawing.Point(391, 9);
@@ -61,6 +63,7 @@
             // 
             // winLabel
             // 
+            this.winLabel.BackColor = System.Drawing.Color.Transparent;
             this.winLabel.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.winLabel.ForeColor = System.Drawing.Color.White;
             this.winLabel.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
